@@ -46,4 +46,5 @@ class LinkedListTests(unittest.TestCase):
     self.assertEqual(self.list.get_max(), 101)
 
 if __name__ == '__main__':
-    unittest.main()
+  unittest.main()
+  
